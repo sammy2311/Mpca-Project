@@ -1,0 +1,32 @@
+{
+"menu":[
+	{
+	"name": "Tea/Coffee",
+	"price": 10
+	},
+	{
+	"name": "Lays",
+	"price": 20
+	},
+	{
+	"name": "Cup Noodles",
+	"price": 50
+	},
+	{
+	"name": "Sandwhich",
+	"price": 40
+	},
+	{
+	"name": "Bun Samosa",
+	"price": 30
+	},
+	{
+	"name": "Sting",
+	"price": 20
+	},
+	{
+	"name": "Snickers",
+	"price": 50
+	}
+	]
+}
